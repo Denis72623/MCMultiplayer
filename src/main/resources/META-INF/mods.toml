@@ -1,0 +1,13 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="multiplayer"
+version="5.3.1"
+displayName="MCMultiplayer"
+authors="Denis VirusNew"
+logoFile="logo.png"
+description='''
+A mod for seamless multiplayer play with friends. It automatically detects and displays your local and global IP addresses, allows quick clipboard copying via hotkeys, and features a one-click WAN server creation directly from the ESC pause menu using native UPnP port mapping. Additionally includes built-in advanced server host tools for banning and pardoning players by username and IP address.
+'''
